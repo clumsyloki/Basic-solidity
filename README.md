@@ -6,5 +6,6 @@ npx hardhat compile
 npx hardhat test
 npx hardhat run scripts/deploy.js --network ropsten
 make sure the compiler version and config version is same
+https://goerli.etherscan.io/
 
 
