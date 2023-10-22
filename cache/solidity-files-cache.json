@@ -70,6 +70,41 @@
       "artifacts": [
         "SimpleStorage"
       ]
+    },
+    "D:\\solidity\\New folder\\loki\\Basic-solidity\\contracts\\Info.sol": {
+      "lastModificationDate": 1697953380443,
+      "contentHash": "699cf5c0fac1e937988140c7b1cf2f04",
+      "sourceName": "contracts/Info.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.19"
+      ],
+      "artifacts": [
+        "Info"
+      ]
     }
   }
 }
